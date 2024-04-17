@@ -1,5 +1,8 @@
 /* ----- POPPINS FONT Link ----- */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* Use the custom font family as a fallback */
+}
 .lato-thin {
   font-family: "Lato", sans-serif;
   font-weight: 100;
